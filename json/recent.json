@@ -1,0 +1,27 @@
+[
+  {
+    "status": "Vencedor",
+    "text":"Aplicativo móvel financeiro",
+    "img": "img/pic-2.png",
+    "tempo": "2 dias atrás"
+  },
+  {
+    "status": "Vencedor",
+    "text":"Design de logo para e-commerce",
+    "img": "img/pic-3.png",
+    "tempo": "3 dias atrás"
+  },
+  {
+    "status": "Vencedor",
+    "text":"Aplicativo de tecnologia",
+    "img": "img/pic-4.png",
+    "tempo": "12 dias atrás"
+  },
+  {
+    "status": "Vencedor",
+    "text":"Aplicativo de Moda",
+    "img": "img/pic-1.png",
+    "tempo": "3 dias atrás"
+  }
+
+]
